@@ -1,10 +1,23 @@
-Папка для стилевых файлов.
+body {
+  font-size: 14px;
+  line-height: 24px;
+  color: white;
+  font-weight: bold;
+  font-family: "PT Sans Narrow", sans-serif;
+background-image: url(/img/tint.jpg);
 
---
+h2 {
+  font-size: 30px;
+  line-height: 42px;
+  color: white;
+  font-weight: bold;
+  font-family: "PT Sans Narrow", sans-serif;
+}
 
-Пример структуры файлов:
-
-css/
-| - style.css
-| - normalize.css
-| - [другие *.css файлы]
+h3 {
+  font-size: 24x;
+  line-height: 30px;
+  color: white;
+  font-weight: bold;
+  font-family: "PT Sans Narrow", sans-serif;
+}
